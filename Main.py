@@ -25,3 +25,5 @@ class icici(Bank):
         return 10.2
 obj=icici()
 print(obj.rateofinterest())
+obj1= Bank()
+print(obj.rateofinterest)
